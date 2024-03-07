@@ -1,5 +1,5 @@
 # Auto generated from al_linkml_schema.yaml by pythongen.py version: 0.0.1
-# Generation date: 2024-03-06T13:30:04
+# Generation date: 2024-03-06T14:40:37
 # Schema: al-linkml-schema
 #
 # id: https://w3id.org/r1tger/al-linkml-schema

@@ -3,7 +3,25 @@ id: https://w3id.org/r1tger/al-linkml-schema
 name: al-linkml-schema
 title: al-linkml-schema
 description: |-
-  Test
+  Duis ut efficitur magna, at semper justo. Curabitur purus risus, porta sed
+  aliquam ac, consequat vel orci. Curabitur ac ultricies magna. Donec a nibh ac
+  ante congue tincidunt. Praesent pellentesque porta enim ac rutrum. Phasellus
+  in pharetra ligula. Cras ultrices elit sem, id vehicula diam imperdiet ac.
+  Vivamus rutrum non nisl eu lobortis. Maecenas lacinia lorem justo, in
+  placerat dolor faucibus in. Phasellus sed erat quis sapien facilisis
+  facilisis ac in tellus. Integer maximus vitae diam vel lobortis. Ut ac sem
+  felis. Nulla sit amet nulla mattis, finibus lectus sed, pulvinar mi. Morbi eu
+  mi leo. Praesent dignissim at dui vel porta.
+
+  ![Logo](assets/logo.svg)
+
+  Mauris condimentum vestibulum arcu, rhoncus consequat quam finibus sed. Cras
+  vel ligula neque. Nullam rhoncus posuere semper. Integer elementum erat eu
+  lacus faucibus, convallis varius ligula rutrum. Vestibulum ante ipsum primis
+  in faucibus orci luctus et ultrices posuere cubilia curae; Praesent mattis
+  purus et bibendum faucibus. Integer eget ipsum augue. Quisque blandit finibus
+  nisl et interdum. In maximus tellus ut ullamcorper consectetur. Aliquam
+  accumsan quis est non volutpat.
 license: Apache Software License 2.0
 see_also:
   - https://r1tger.github.io/al-linkml-schema
