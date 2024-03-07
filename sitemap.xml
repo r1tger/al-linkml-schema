@@ -2,172 +2,172 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/Boolean/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/Curie/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/Date/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/DateOrDatetime/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/Datetime/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/Decimal/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/Double/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/Float/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/Integer/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/Jsonpath/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/Jsonpointer/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/NamedThing/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/Ncname/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/Nodeidentifier/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/Objectidentifier/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/Person/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/PersonCollection/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/PersonStatus/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/Sparqlpath/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/String/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/Time/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/Uri/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/Uriorcurie/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/about/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/age_in_years/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/al-linkml-schema/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/birth_date/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/description/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/entries/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/id/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/name/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/primary_email/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://r1tger.github.io/al-linkml-schema/vital_status/</loc>
-         <lastmod>2024-03-06</lastmod>
+         <lastmod>2024-03-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
